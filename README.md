@@ -4,10 +4,10 @@
 
 # Overview
 
-* \[Build Notes](https://github.com/FORMBOT/Voron-Trident/tree/main/Build%20Notes)
+* [Build Notes](https://github.com/FORMBOT/Voron-Trident/tree/main/Build%20Notes)
 * [Firmware Flashing](https://github.com/FORMBOT/Voron-Trident/tree/main/Firmware%20Flashing)
-* \[Config Setup and Initial Startup](https://github.com/FORMBOT/Voron-Trident/tree/main/Config)
+* [Config Setup and Initial Startup](https://github.com/FORMBOT/Voron-Trident/tree/main/Config)
 * Maintenance
-* \[STLs](https://github.com/FORMBOT/Voron-Trident/tree/main/STL)
+* [STLs](https://github.com/FORMBOT/Voron-Trident/tree/main/STL)
 * Printer Tuning
 * Printer Testing
