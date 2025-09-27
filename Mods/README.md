@@ -21,9 +21,13 @@
 
 ## Inverted Electronics
     https://mods.vorondesign.com/details/pXkXHVIUbqSWqQKJISczw
+        - installed
     https://www.printables.com/model/933809-trident-inverted-electronics-deck-handle
-    https://www.printables.com/model/782718-din-rail-wire-channel-support-voron-trident-invert/comments
+        - installed
+    https://www.printables.com/model/782718-din-rail-wire-channel-support-voron-trident-invert
+        - installed
     https://www.printables.com/model/883096-voron-trident-inverted-electronics-slip-in-bracket
+        - installed
 
     https://www.printables.com/model/717323-trident-inverted-electronics-din-mount-nuctua-a6-a
 
@@ -35,7 +39,9 @@
 
 ## Bambulab Hotend
     https://www.printables.com/model/607566-bambu-stealthburner-rear-tap-support
+        - installed
     https://www.printables.com/model/550394-bambu-stealthburner-for-stock-bambu-hotend
+        - installed
 
     https://www.printables.com/model/429085-j-hook-adapter-for-bambu-hot-ends
     https://www.cnckitchen.com/blog/cht-high-flow-nozzle-for-the-bambulab-x1-amp-p1p
@@ -66,6 +72,9 @@
     https://www.printables.com/model/450348-voron-24-trident-carrying-handle
     https://mods.vorondesign.com/details/Sr7Klpio9kI9V5uvbtuA
     https://www.printables.com/model/542953-locking-foldable-spool-holder-for-voron-v02-0-v0-0
+
+## KNOMIv2
+    https://github.com/bigtreetech/KNOMI
 
 ## Misc
     https://mods.vorondesign.com/details/jyO8bHoPTy3XUaYlXscB7w
