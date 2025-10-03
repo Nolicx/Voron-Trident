@@ -29,7 +29,11 @@
     https://www.printables.com/model/883096-voron-trident-inverted-electronics-slip-in-bracket
         - installed
 
+    https://www.printables.com/model/368413-voron-trident-inverted-electronics-mod-with-noctua
+
     https://www.printables.com/model/717323-trident-inverted-electronics-din-mount-nuctua-a6-a
+    https://www.printables.com/model/253265-voron-trident-spacer-for-inverted-electronics-noct
+    https://www.printables.com/model/891446-btt-m8p-v20-cooling-2x4010
 
 ## Nozzle Srubber
     https://www.printables.com/model/1077344-voron-trident-purge-bucket-nozzle-brush/files
