@@ -3,24 +3,50 @@
     https://www.printables.com/model/431489-gridfinity-mount-for-2020-extrusions-voron-printer
         - installed
 
-## Snap Latches/Hinges/ Frame brace
+## Magnetic Panels
     https://www.printables.com/model/775808-voron-24r2trident-magnetic-panels-with-magnet-inse
         - installed
+
+## Magnetic Hinges
+    https://www.printables.com/model/899914-voron-magnetic-door-hinges-enhanced
+        - installed
+
+## Frame Brace
     https://www.printables.com/model/1270452-parametric-voron-frame-brace
 
 ## Auxiliary Fans
     https://www.thingiverse.com/thing:6122197
         - installed
     https://github.com/VoronDesign/Voron-Hardware/tree/master/Klipper_Expander
-        - installed
     https://www.printables.com/model/425248-klipper-expander-din-rail-adapter
         - installed
     https://github.com/FORMBOT/Voron-Trident/blob/main/STL/ElectronicsBay/pcb_din_clip_x3.stl
         - installed
 
+## Lighting
+    https://github.com/VoronDesign/Voron-Hardware/blob/master/Daylight/README.md
+        - installed
+
+## Exhaust Cover
+    https://www.printables.com/model/412144-voron-24-exhaust-cover
+        - installed
+
+## Preloaded Lead Screw Nuts
+    https://www.printables.com/model/1232008-voron-trident-z-axis-mods-for-preloaded-lead-screw
+        - installed
+
 ## Thermistor mounts
-    https://www.printables.com/model/508032-voron-trident-chamber-thermistor-mount
-    https://mods.vorondesign.com/details/dfRX88k7wwS6tpYlvyCEw
+    https://www.printables.com/model/805687-ntc-100k-3950-glass-thermistor-mount-2020-extrusio
+    https://www.printables.com/model/1330198-ntc-100k-3950-glass-thermistor-chamber-sensor-moun
+        - installed
+    https://www.printables.com/model/536989-voron-cw2-thermistor-holder-pcb-cover
+      - installed
+
+## Build Plate Stopper
+    https://makerworld.com/en/models/109337-voron-2-4-flex-plate-stops?from=search
+        - installed
+    https://makerworld.com/en/models/1024379-trident-pei-plate-mounting-slot?from=search#profileId-1006303
+        - installed
 
 ## Inverted Electronics
     https://mods.vorondesign.com/details/pXkXHVIUbqSWqQKJISczw
@@ -38,9 +64,13 @@
 
 ## Nozzle Srubber
     https://www.printables.com/model/904716-trident-decontaminatornozzle-scrubber-wiper-bambu
-        - installed, Brush Halterung zugeschnitten
     https://www.printables.com/model/889734-ldo-trident-mount-for-decontaminator-purge-bucket
-        - Bucket installed
+    https://www.printables.com/model/957985-voron-24-bamboo-a1-brush-bucket
+        - installed
+        - Macro eingebunden
+    
+    https://www.printables.com/model/796563-voron-24-silicone-nozzle-scrubber-w-sheet-stops-be
+        - Macro ist interessant
 
 ## Bambulab Hotend
     https://www.printables.com/model/607566-bambu-stealthburner-rear-tap-support
@@ -48,30 +78,30 @@
     https://www.printables.com/model/550394-bambu-stealthburner-for-stock-bambu-hotend
         - installed
 
-    https://www.printables.com/model/429085-j-hook-adapter-for-bambu-hot-ends
     https://www.cnckitchen.com/blog/cht-high-flow-nozzle-for-the-bambulab-x1-amp-p1p
 
 ## Camera
     https://www.printables.com/model/488020-happycam-voron-24-ov5640-camera-mount
-        - built
+        - installed
     https://mods.vorondesign.com/details/RYpQW53mtem8Nj1JKqiSQ
 
 ## FilamATrix
     https://github.com/thunderkeys/FilamATrix/tree/main
 
-## Build plates
+## Build plate holder
     https://www.printables.com/model/368691-steel-sheet-holder-for-voron-24-voron-trident-v0
-    https://www.printables.com/model/411428-voron-24-flex-plate-stops
-        - installed
 
 ## Filament runout sensor
     https://www.printables.com/model/742887-voron-filament-runout-sensor
 
-## Vibrations/Noise
+## HULA
     https://www.printables.com/model/898357-hula-v10-for-voron-printers
-    https://github.com/thrutheframe/HULA_Voron
+        - https://github.com/thrutheframe/HULA_Voron
+        - installed
+## Stepper Decoupler
     https://www.printables.com/model/430168-voron-trident-stepper-decoupler
         - installed
+## Front Idlers
     https://www.printables.com/model/1024258-voron-bfi-asthetic-trident-remix
         - installed
     https://www.printables.com/model/1376982-voron-trident-ws-1204-wobblex
@@ -95,6 +125,9 @@
     https://mods.vorondesign.com/details/dpPGVV98ROfSC1Kmu16MEg
     https://www.printables.com/model/978123-voron-bowden-ptfe-tube-guide-arm-and-canbus-cable
         - installed
+    https://github.com/Outrider305/Trident_Nevermore_Bed_Mount/blob/6f0d5977b592f5feb3b60df2ecaaecfb3d4709c4/STLs/Trident_Bed_Mount_Bracket_Right.stl
+        - installed 
+    https://makerworld.com/en/models/1024379-trident-pei-plate-mounting-slot?from=search#profileId-1006303
 
 ## Formbot R1
     https://www.printables.com/model/926845-btt-hdmi5-v12-display-mount-voron
@@ -102,10 +135,8 @@
     https://www.printables.com/model/464735-pg7-cnlinko-lp-12-mount-for-sb2209-sb2240
     https://www.printables.com/model/413177-voron-trident-fixed-nozzle-scubber/remixes
 
-
 ## General
     https://github.com/pila81/Trident_Mods
-    https://github.com/andrewmcgr/klipper_tmc_autotune
 
     https://docs.vorondesign.com/build/startup/
     https://docs.vorondesign.com/build/slicer/
@@ -117,3 +148,16 @@
     https://docs.vorondesign.com/community/macros/macros/120decibell.html
     https://github.com/edwardyeeks/VoronUsers/blob/master/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_%26_Nozzle_Scrubber/Macros/sample_nozzle_scrub_menu.cfg
     https://github.com/rcg94/voron-trident-250-20241017/blob/main/macros.cfg
+    
+
+## Klipper Extensions
+    https://github.com/MapleLeafMakers/klipper-virtual_leds
+    https://github.com/julianschill/klipper-led_effect
+    
+    https://github.com/andrewmcgr/klipper_tmc_autotunevoron
+    
+    https://github.com/MRX8024/chopper-resonance-tuner
+      (original Repo)
+    https://github.com/Frix-x/klippain-shaketune
+    
+    https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging
