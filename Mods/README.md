@@ -98,21 +98,29 @@
     https://www.printables.com/model/898357-hula-v10-for-voron-printers
         - https://github.com/thrutheframe/HULA_Voron
         - installed
+        
 ## Stepper Decoupler
     https://www.printables.com/model/430168-voron-trident-stepper-decoupler
         - installed
+        
 ## Front Idlers
     https://www.printables.com/model/1024258-voron-bfi-asthetic-trident-remix
         - installed
     https://www.printables.com/model/1376982-voron-trident-ws-1204-wobblex
     https://github.com/MirageC79/Interfaces-for-WobbleX-integration
 
-## Carrying/Spool Holders
+## Side Handles
     https://www.printables.com/model/826183-voron-24-trident-side-handles
         - installed
+        
+## Spool Holders
     https://www.printables.com/model/584995-trident-internal-spool-holder-for-2020-extrusion/
         - installed
     https://www.teamfdm.com/files/file/619-trident-simple-internal-spool-holder-bowden-guide-60degrees-curved/
+        - installed
+    https://github.com/elcrni/V2.4-Trident-Spool-Holders/blob/main/STL/Classic__spool_holder.stl
+        - installed
+    https://www.printables.com/model/678821-voron-trident-internal-spool-bowden-tube-bracket/files?lang=de
         - installed
     https://www.printables.com/model/542953-locking-foldable-spool-holder-for-voron-v02-0-v0-0
 
@@ -120,14 +128,20 @@
     https://github.com/bigtreetech/KNOMI
         - installed
 
-## Misc
+## PSU Cover
     https://mods.vorondesign.com/details/jyO8bHoPTy3XUaYlXscB7w
+
+## Rainbow Serial Bumper
     https://mods.vorondesign.com/details/dpPGVV98ROfSC1Kmu16MEg
+
+## PTFE Bowden Guide
     https://www.printables.com/model/978123-voron-bowden-ptfe-tube-guide-arm-and-canbus-cable
         - installed
+
+## Nevermore Mount
     https://github.com/Outrider305/Trident_Nevermore_Bed_Mount/blob/6f0d5977b592f5feb3b60df2ecaaecfb3d4709c4/STLs/Trident_Bed_Mount_Bracket_Right.stl
         - installed 
-    https://makerworld.com/en/models/1024379-trident-pei-plate-mounting-slot?from=search#profileId-1006303
+
 
 ## Formbot R1
     https://www.printables.com/model/926845-btt-hdmi5-v12-display-mount-voron
@@ -154,7 +168,7 @@
     https://github.com/MapleLeafMakers/klipper-virtual_leds
     https://github.com/julianschill/klipper-led_effect
     
-    https://github.com/andrewmcgr/klipper_tmc_autotunevoron
+    https://github.com/andrewmcgr/klipper_tmc_autotune
     
     https://github.com/MRX8024/chopper-resonance-tuner
       (original Repo)
